@@ -32,7 +32,7 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-# emacs
+emacs
 ethtool
 exfatprogs
 # eww
@@ -60,7 +60,7 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
-# gnome-software
+gnome-software
 gnome-system-monitor
 gedit
 gnome-terminal
@@ -74,7 +74,7 @@ xdg-user-dirs-gtk
 
 
 
-# gnu-netcat
+gnu-netcat
 gpart
 # gpm
 gptfdisk
@@ -92,6 +92,7 @@ lazygit
 less
 # libfido2
 libusb-compat
+libpwquality
 libxpm
 licenses
 linux
@@ -130,7 +131,7 @@ open-vm-tools
 openssh
 os-prober
 # partclone
-# parted
+parted
 # partimage
 # pcsclite
 pv
@@ -149,6 +150,13 @@ sof-firmware
 squashfs-tools
 starship
 # stratmacs
+stratmacs-config
+# stratos-btop-config
+stratos-calamares-config
+stratos-kitty-config
+stratos-mako-config
+stratos-starship-config
+stratos-wallpapers
 sudo
 syslinux
 systemd-resolvconf
@@ -162,13 +170,14 @@ ttf-jetbrains-mono-nerd
 usb_modeswitch
 usbmuxd
 usbutils
-# vim
+vim
 wireless-regdb
 wireless_tools
 wget
 wpa_supplicant
 xorg
 xorg-server
+yaml-cpp
 yay-bin
 zsh
 zsh-syntax-highlighting
