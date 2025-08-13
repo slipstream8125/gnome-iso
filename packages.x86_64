@@ -60,7 +60,7 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
-gnome-software
+# gnome-software
 gnome-system-monitor
 gedit
 gnome-terminal
@@ -152,7 +152,7 @@ starship
 # stratmacs
 stratmacs-config
 # stratos-btop-config
-stratos-calamares-config
+# stratos-calamares-config
 stratos-kitty-config
 stratos-mako-config
 stratos-starship-config
